@@ -1,4 +1,4 @@
-#Conta Terminal
+# Conta Terminal
 
 Este projeto Java simula um **terminal de conta bancária**, focando na entrada de dados via console e na formatação de saída.
 
