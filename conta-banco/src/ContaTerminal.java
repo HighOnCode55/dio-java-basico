@@ -18,7 +18,7 @@ public class ContaTerminal {
                   "Sua agência é %s, conta %d e seu saldo %s já está disponível para saque.%n",
                   nomeCliente, agenciaCliente, contaCliente, saldoCliente.toPlainString());
         
-                  scanner.close();
+                  scanner.close();  
 
     }
 }
